@@ -1,5 +1,6 @@
 # Maze Solver and Generator
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/JPGBMR/maze-master)
 A Python application that generates random mazes and solves them using the A* pathfinding algorithm. Built with Pygame, this program offers interactive gameplay where users can navigate a maze, regenerate it, or let the program solve it.
 
 ## Features
@@ -45,3 +46,13 @@ Feel free to fork the repository, open issues, or submit pull requests to improv
 ---
 **Enjoy solving and navigating mazes with this interactive application!**
 
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+---
+*Part of the [JPGBMR](https://github.com/JPGBMR) open-source portfolio.*
